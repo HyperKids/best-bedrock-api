@@ -1,0 +1,14 @@
+{
+  "name": "best-bedrock-api",
+  "version": "1.0.0",
+  "description": "Brown Esports API to convert Bedrock UUIDs to Java-friendly ones",
+  "main": "index.js",
+  "repository": "https://github.com/HyperKids/best-bedrock-api.git",
+  "author": "Isaac Kim <snakeisaac@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
